@@ -1,5 +1,5 @@
 import { Dish } from './dish';
-export const DISHESCOUR: Dish[] = [
+export const DISHES: Dish[] = [
     {
         id: '0',
         name: 'Uthappizza',

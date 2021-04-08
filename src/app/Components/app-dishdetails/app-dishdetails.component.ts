@@ -15,5 +15,8 @@ export class AppDishdetailsComponent implements OnInit {
 
   ngOnInit(): void {
   }
+  showDish = (a: any) => {
+    console.log("show dihs ap dish details se", a);
 
+  }
 }
